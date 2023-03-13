@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Organic_Chemistry_Search_Bar/static/css/main.3597baba.css",
-    "main.js": "/Organic_Chemistry_Search_Bar/static/js/main.04d51df0.js",
+    "main.css": "/Organic_Chemistry_Search_Bar/static/css/main.33935007.css",
+    "main.js": "/Organic_Chemistry_Search_Bar/static/js/main.cb502452.js",
     "static/media/alcohol6.png": "/Organic_Chemistry_Search_Bar/static/media/alcohol6.9cda18587a37776642db.png",
     "static/media/aboutus.jpg": "/Organic_Chemistry_Search_Bar/static/media/aboutus.016a57d7422293756998.jpg",
     "static/media/aboutus2.jpg": "/Organic_Chemistry_Search_Bar/static/media/aboutus2.bc4d4575fb03f52539b0.jpg",
+    "static/media/spongebob.png": "/Organic_Chemistry_Search_Bar/static/media/spongebob.3bb8818f5390c7ccbd02.png",
     "static/media/logo1.jpg": "/Organic_Chemistry_Search_Bar/static/media/logo1.331d6fd0ed0e7a28745f.jpg",
     "static/media/carboxy6.png": "/Organic_Chemistry_Search_Bar/static/media/carboxy6.35f9cd44205a4d747df4.png",
     "static/media/alcohol14.png": "/Organic_Chemistry_Search_Bar/static/media/alcohol14.8ca095e92b8c3935932f.png",
@@ -92,11 +93,11 @@
     "static/media/addhalo9.png": "/Organic_Chemistry_Search_Bar/static/media/addhalo9.f0b749668a42378b2e56.png",
     "static/media/alcohol11.png": "/Organic_Chemistry_Search_Bar/static/media/alcohol11.dd62584f6e17ae682e59.png",
     "index.html": "/Organic_Chemistry_Search_Bar/index.html",
-    "main.3597baba.css.map": "/Organic_Chemistry_Search_Bar/static/css/main.3597baba.css.map",
-    "main.04d51df0.js.map": "/Organic_Chemistry_Search_Bar/static/js/main.04d51df0.js.map"
+    "main.33935007.css.map": "/Organic_Chemistry_Search_Bar/static/css/main.33935007.css.map",
+    "main.cb502452.js.map": "/Organic_Chemistry_Search_Bar/static/js/main.cb502452.js.map"
   },
   "entrypoints": [
-    "static/css/main.3597baba.css",
-    "static/js/main.04d51df0.js"
+    "static/css/main.33935007.css",
+    "static/js/main.cb502452.js"
   ]
 }
